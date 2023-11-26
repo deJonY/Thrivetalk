@@ -1,0 +1,70 @@
+.ft-title1{
+    margin: 103px auto 220px 106px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+    color: #22356F;
+}
+.ft-title2{
+    margin-left: 106px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+}
+.ft-text1{
+    margin: 0 0 150px 106px;
+    width: 731px;
+    font-weight: 700;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.01em;
+    color: #22356F;
+}
+
+.img2{
+    width: 100%;
+}
+.bg-blue{
+    background: #22356F;
+}
+.ft-title3{
+    margin: 103px auto 230px 180px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+.ft-title4{
+    margin: 80px auto auto 180px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #62D0DF;
+}
+.ft-text2{
+    margin: 0 auto 75px 180px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 64px;
+    line-height: 94px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+.ft-text3{
+    margin-left: 180px;
+    width: 560px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+    color: #FFFFFF;
+}

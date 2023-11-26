@@ -1,0 +1,71 @@
+.MTtext{
+    margin: 100px auto 25px;
+}
+.Ltitle{
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    color: #22356F;
+}
+.Rtitle1{
+    width: 600px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: 0.005em;
+    color: #22356F;
+    margin-bottom: 75px;
+}
+.Rtitle2{
+    width: 600px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: rgba(34, 53, 111, 0.5);
+}
+.background-pink{
+    height: 340px;
+    background: #FFE2DE;
+}
+.background-green{
+    height: 340px;
+    background: #C4E769;
+}
+.background-bluesky{
+    height: 340px;
+    background: #62D0DF;
+}
+.background-blue{
+    height: 340px;
+    background: #0052C1;
+}
+.line{
+    width: 73%;
+    border: 1px solid #FFFFFF;
+    margin: 70px auto 20px;
+}
+.dot-text{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.dot-box{
+    width: 10px;
+    height: 10px;
+    margin: 3% 5% 0 0;
+    text-align: center;
+    background: #E9B730;
+    border-radius: 100%;
+}
+.d-text{
+    width: 210px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF;
+}

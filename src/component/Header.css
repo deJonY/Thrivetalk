@@ -1,0 +1,98 @@
+.qwe{
+    position: static;
+    width: 80%;
+    height: 46.6rem;
+    background-color: #F4F9E2;
+    z-index: 0;
+}
+.zindex{
+    top: 0;
+    position: absolute;
+    z-index: 100000;
+}
+.paddingleft{
+    padding-left: 100px;
+}
+.first-title{
+    margin-top: 160px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    color: #62D0DF;
+}
+.second-title{
+    margin-top: 30px;
+    width: 500px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 48px;
+    line-height: 53px;
+    letter-spacing: -0.035em;
+    color: #22356F;
+}
+.texts{
+    width: 500px;
+    font-family: 'Larsseit', sans-serif;
+    font-size: 24px;
+    line-height: 42px;
+    margin-top: 60px;
+    color: #22356F;
+}
+.btn-text{
+    display: flex;
+    align-items: end;
+}
+.buttons{
+    width: 150px;
+    height: 50px;
+    border: none;
+    background: rgba(249, 182, 64, 1);
+}
+.buttons-link{
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.text{
+    font-family: 'Larsseit', sans-serif;
+    font-size: 16px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    margin-left: 30px;
+}
+.bg-img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 550px;
+    height: 545px;
+    border-top-left-radius: 250px;
+    z-index: 0;
+}
+.fr-img{
+    position: absolute;
+    width: 700px;
+    height: 745px;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+@media (max-width: 576px) {
+    .images{
+        display: none;
+    }
+}
+
+@media (max-width: 1440px) {
+    .paddingleft{
+        padding-left: 4.4%;
+    }
+}
